@@ -77,3 +77,6 @@ Process:
 Monitoring: Track the performance of each model in production, looking for drops in accuracy or data drift.
 Feedback: Capture agent feedback on the quality of automated routing and solution recommendations.
 Retraining: Use new, resolved tickets to periodically retrain and update the models to ensure they remain relevant. 
+
+
+https://share.google/aimode/FzyLsJ5LDpNYYEXFG
