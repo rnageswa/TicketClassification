@@ -1,0 +1,12 @@
+pandas
+torch
+transformers
+nltk
+scikit-learn
+transformers[torch]
+accelerate
+datasets
+torchmetrics
+fastapi
+uvicorn
+# Add any other required libraries here, e.g., for custom preprocessing
